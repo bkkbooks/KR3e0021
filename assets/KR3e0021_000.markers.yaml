@@ -25,6 +25,7 @@ markers:
   - {type: line-break, offset: 11, content: '', id: KR3e0021_WYG_000-1a04}
   - {type: indent, offset: 11, content: 　　　　, id: KR3e0021_krp_000-bkkind4}
   - {type: punctuation, offset: 11, content: (, id: KR3e0021_krp_000-bkkpn1}
+  - {type: voice, offset: 11, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 12, content: /, id: KR3e0021_krp_000-bkkpn2}
   - {type: punctuation, offset: 12, content: ), id: KR3e0021_krp_000-bkkpn3}
   - {type: 'kr:newline', offset: 28, content: '
@@ -177,12 +178,15 @@ markers:
   - {type: line-break, offset: 435, content: '', id: KR3e0021_WYG_000-2b05}
   - {type: indent, offset: 435, content: 　　　　　　　, id: KR3e0021_krp_000-bkkind29}
   - {type: punctuation, offset: 438, content: (, id: KR3e0021_krp_000-bkkpn4}
+  - {type: voice, offset: 438, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 439, content: /, id: KR3e0021_krp_000-bkkpn5}
   - {type: punctuation, offset: 439, content: ), id: KR3e0021_krp_000-bkkpn6}
   - {type: punctuation, offset: 441, content: (, id: KR3e0021_krp_000-bkkpn7}
+  - {type: voice, offset: 441, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 442, content: /, id: KR3e0021_krp_000-bkkpn8}
   - {type: punctuation, offset: 442, content: ), id: KR3e0021_krp_000-bkkpn9}
   - {type: punctuation, offset: 445, content: (, id: KR3e0021_krp_000-bkkpn10}
+  - {type: voice, offset: 445, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 446, content: /, id: KR3e0021_krp_000-bkkpn11}
   - {type: punctuation, offset: 446, content: ), id: KR3e0021_krp_000-bkkpn12}
   - {type: 'kr:newline', offset: 449, content: '
@@ -194,6 +198,7 @@ markers:
   - {type: indent, offset: 451, content: 　, id: KR3e0021_krp_000-bkkind32}
   - {type: indent, offset: 452, content: 　, id: KR3e0021_krp_000-bkkind33}
   - {type: punctuation, offset: 452, content: (, id: KR3e0021_krp_000-bkkpn13}
+  - {type: voice, offset: 452, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 453, content: /, id: KR3e0021_krp_000-bkkpn14}
   - {type: punctuation, offset: 453, content: ), id: KR3e0021_krp_000-bkkpn15}
   - {type: indent, offset: 454, content: 　, id: KR3e0021_krp_000-bkkind34}
@@ -527,4 +532,4 @@ markers:
 
       ', id: KR3e0021_krp_000-bkkkrnewl106}
   back: []
-hash: sha256:2e4e21bece8f4ca1ce9a1e68ec966cf038d4f683dd37c4fad771f1b8129a69ba
+hash: sha256:bd2c036f6d8ddbe734dc8444227149ce3e347f37b836caf09f7f166a0bfc975d
